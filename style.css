@@ -1,0 +1,9 @@
+.inner {
+  
+    margin-top: 10%;
+}
+.inner h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900 !important;
+    font-size: 80px;
+}
